@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasser Cherfaoui</h1>
-<h3 align="center">A passionate full stack developer from Algeria</h3>
+<h3 align="center">A Passionate Full-Stack developer from Algeria</h3>
 
 <p align="left"> <a href="https://twitter.com/yassercherfaoui" target="blank"><img src="https://img.shields.io/twitter/follow/yassercherfaoui?logo=twitter&style=for-the-badge" alt="yassercherfaoui" /></a> </p>
 
