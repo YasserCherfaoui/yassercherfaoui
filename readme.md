@@ -31,5 +31,5 @@
 <div style="display:inline-blocks;">
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassercher&show_icons=true&locale=en&layout=compact" alt="yassercher" /></p>
 
-<p>&nbsp;<img align="center" width="300px" src="https://github-readme-stats.vercel.app/api?username=yassercher&show_icons=true&locale=en" alt="yassercher" /></p>
+<p>&nbsp;<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=yassercher&show_icons=true&locale=en" alt="yassercher" /></p>
   <div>
