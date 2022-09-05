@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/yassercherfaoui" target="blank"><img src="https://img.shields.io/twitter/follow/yassercherfaoui?logo=twitter&style=for-the-badge" alt="yassercherfaoui" /></a> </p>
 
-- 🔭 I’m currently working on [Bimo Logistic Tracker](https://github.com/MorningAI/logistic-tracker-bimo)
+- 🔭 I’m currently working on [Business With Diaspora](https://github.com/MorningAI/BwithD/)
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **Kotlin**
 
 - 🤝 I’m looking for help with [Clothes Shop](https://github.com/yassercher/clothing-store)
 
