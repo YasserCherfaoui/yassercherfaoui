@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Clothes Shop](https://github.com/yassercher/clothing-store)
 
-- 👨‍💻 All of my projects are available at [https://github.com/yassercher](https://github.com/yassercher)
+- 👨‍💻 All of my projects are available at [https://github.com/yassercher](https://github.com/yassercherfaoui)
 
 - 💬 Ask me about **React, React Native, Node.js, Express.js, Django, Python, GUI dev**
 
