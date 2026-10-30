@@ -81,6 +81,29 @@
 
 ---
 
+### 📊 Lines of Code Breakdown (Live)
+
+<!-- START_SECTION:loc_stats -->
+```text
+Lines of Code:    3,305,766 LOC
+Repositories:     187 (Public & Private)
+Last Updated:     2026-10-30
+
+TypeScript   ███████░░░░░░░░░░░░░  33.2%  (1,098,942 lines)
+JavaScript   ███░░░░░░░░░░░░░░░░░  16.5%  (  544,045 lines)
+Dart         ███░░░░░░░░░░░░░░░░░  15.3%  (  505,631 lines)
+Go           ███░░░░░░░░░░░░░░░░░  14.3%  (  471,696 lines)
+Python       ██░░░░░░░░░░░░░░░░░░  11.3%  (  373,523 lines)
+HTML         █░░░░░░░░░░░░░░░░░░░   3.0%  (   98,207 lines)
+CSS          ░░░░░░░░░░░░░░░░░░░░   1.8%  (   60,464 lines)
+C++          ░░░░░░░░░░░░░░░░░░░░   0.8%  (   27,720 lines)
+SCSS         ░░░░░░░░░░░░░░░░░░░░   0.8%  (   25,360 lines)
+C            ░░░░░░░░░░░░░░░░░░░░   0.7%  (   24,787 lines)
+```
+<!-- END_SECTION:loc_stats -->
+
+---
+
 ### 🐍 Activity Snake
 
 <p align="center">
