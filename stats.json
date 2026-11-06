@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-05T04:52:47.253Z",
-  "totalLines": 3324238,
+  "updatedAt": "2026-11-06T04:52:55.377Z",
+  "totalLines": 3352977,
   "repoCount": 190,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 38555846,
-      "lines": 1101596,
-      "percentage": 33.1
+      "bytes": 38569773,
+      "lines": 1101994,
+      "percentage": 32.9
     },
     {
       "name": "JavaScript",
-      "bytes": 19047105,
-      "lines": 544203,
-      "percentage": 16.4
+      "bytes": 19114604,
+      "lines": 546132,
+      "percentage": 16.3
     },
     {
       "name": "Dart",
       "bytes": 17715522,
       "lines": 506158,
-      "percentage": 15.2
+      "percentage": 15.1
     },
     {
       "name": "Go",
-      "bytes": 16510944,
-      "lines": 471741,
-      "percentage": 14.2
+      "bytes": 16522479,
+      "lines": 472071,
+      "percentage": 14.1
     },
     {
       "name": "Python",
       "bytes": 13073319,
       "lines": 373523,
-      "percentage": 11.2
+      "percentage": 11.1
     },
     {
       "name": "HTML",
-      "bytes": 3962785,
-      "lines": 113222,
-      "percentage": 3.4
+      "bytes": 4318803,
+      "lines": 123394,
+      "percentage": 3.7
     },
     {
       "name": "CSS",
-      "bytes": 2116227,
-      "lines": 60464,
-      "percentage": 1.8
+      "bytes": 2673111,
+      "lines": 76375,
+      "percentage": 2.3
     },
     {
       "name": "C++",
@@ -68,7 +68,7 @@
     "go": "472k",
     "typescript": "1.1M",
     "dart": "506k",
-    "javascript": "544k",
+    "javascript": "546k",
     "python": "374k"
   }
 }
