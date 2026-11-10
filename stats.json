@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-09T04:22:23.481Z",
-  "totalLines": 3360190,
+  "updatedAt": "2026-11-10T05:45:50.260Z",
+  "totalLines": 3362263,
   "repoCount": 190,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 38648979,
-      "lines": 1104257,
-      "percentage": 32.9
+      "bytes": 38655258,
+      "lines": 1104436,
+      "percentage": 32.8
     },
     {
       "name": "JavaScript",
       "bytes": 19114604,
       "lines": 546132,
-      "percentage": 16.3
+      "percentage": 16.2
     },
     {
       "name": "Dart",
-      "bytes": 17887382,
-      "lines": 511068,
-      "percentage": 15.2
+      "bytes": 17953651,
+      "lines": 512961,
+      "percentage": 15.3
     },
     {
       "name": "Go",
@@ -67,7 +67,7 @@
   "highlights": {
     "go": "472k",
     "typescript": "1.1M",
-    "dart": "511k",
+    "dart": "513k",
     "javascript": "546k",
     "python": "374k"
   }
