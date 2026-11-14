@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-13T04:50:12.392Z",
-  "totalLines": 3370051,
+  "updatedAt": "2026-11-14T04:43:09.642Z",
+  "totalLines": 3371677,
   "repoCount": 190,
   "languages": [
     {
@@ -17,8 +17,8 @@
     },
     {
       "name": "Dart",
-      "bytes": 18052136,
-      "lines": 515775,
+      "bytes": 18109016,
+      "lines": 517400,
       "percentage": 15.3
     },
     {
@@ -67,7 +67,7 @@
   "highlights": {
     "go": "473k",
     "typescript": "1.1M",
-    "dart": "516k",
+    "dart": "517k",
     "javascript": "546k",
     "python": "374k"
   }
