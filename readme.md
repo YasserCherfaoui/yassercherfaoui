@@ -85,19 +85,19 @@
 
 <!-- START_SECTION:loc_stats -->
 ```text
-Lines of Code:    3,371,681 LOC
-Repositories:     190 (Public & Private)
-Last Updated:     2026-11-15
+Lines of Code:    3,394,340 LOC
+Repositories:     193 (Public & Private)
+Last Updated:     2026-11-16
 
-TypeScript   ███████░░░░░░░░░░░░░  32.9%  (1,108,758 lines)
-JavaScript   ███░░░░░░░░░░░░░░░░░  16.2%  (  546,132 lines)
-Dart         ███░░░░░░░░░░░░░░░░░  15.3%  (  517,400 lines)
-Go           ███░░░░░░░░░░░░░░░░░  14.0%  (  472,729 lines)
-Python       ██░░░░░░░░░░░░░░░░░░  11.1%  (  373,523 lines)
-HTML         █░░░░░░░░░░░░░░░░░░░   3.7%  (  123,394 lines)
-CSS          ░░░░░░░░░░░░░░░░░░░░   2.3%  (   76,375 lines)
+TypeScript   ███████░░░░░░░░░░░░░  33.0%  (1,119,649 lines)
+JavaScript   ███░░░░░░░░░░░░░░░░░  16.1%  (  546,132 lines)
+Dart         ███░░░░░░░░░░░░░░░░░  15.2%  (  517,544 lines)
+Go           ███░░░░░░░░░░░░░░░░░  14.0%  (  473,947 lines)
+Python       ██░░░░░░░░░░░░░░░░░░  11.0%  (  373,523 lines)
+HTML         █░░░░░░░░░░░░░░░░░░░   3.9%  (  133,020 lines)
+CSS          ░░░░░░░░░░░░░░░░░░░░   2.3%  (   76,486 lines)
 C++          ░░░░░░░░░░░░░░░░░░░░   0.8%  (   27,720 lines)
-SCSS         ░░░░░░░░░░░░░░░░░░░░   0.8%  (   25,360 lines)
+SCSS         ░░░░░░░░░░░░░░░░░░░░   0.7%  (   25,360 lines)
 C            ░░░░░░░░░░░░░░░░░░░░   0.7%  (   24,787 lines)
 ```
 <!-- END_SECTION:loc_stats -->
