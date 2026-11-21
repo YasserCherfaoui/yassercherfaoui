@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-20T05:30:18.734Z",
-  "totalLines": 3401658,
+  "updatedAt": "2026-11-21T05:24:46.918Z",
+  "totalLines": 3408709,
   "repoCount": 193,
   "languages": [
     {
       "name": "TypeScript",
-      "bytes": 39444353,
-      "lines": 1126982,
-      "percentage": 33.1
+      "bytes": 39691139,
+      "lines": 1134033,
+      "percentage": 33.3
     },
     {
       "name": "JavaScript",
       "bytes": 19113720,
       "lines": 546106,
-      "percentage": 16.1
+      "percentage": 16
     },
     {
       "name": "Dart",
